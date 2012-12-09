@@ -1,0 +1,6 @@
+12/4/12
+Completed basic functionality
+
+-- TO DO:
+set flag for different directory (instead of just running from dir)
+
