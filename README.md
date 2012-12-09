@@ -7,14 +7,15 @@ dircr
 
 ####if filename.txt looks like this:
 
-
+```
 root  
  subdir  
  subdir2  
   sub-subdir  
   sub-subdir2  
  subdir3  
-  
+```  
+
 dircr will create directories like this:  
 ./root/  
 ./root/subdir/  
